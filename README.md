@@ -1,11 +1,11 @@
 # 🌱 VanillaJS TODO アプリ
 
 ## 目的
-1.JavaScript のアウトプット
-2.React との違いを理解する
+1. JavaScript のアウトプット
+2. React との違いを理解する
 
-## デモ動画
-[こちらをクリックして動画を見る](./todo-app-js.mov)
+## デモ
+<img src="./todo-app-js.gif" width="500">
 
 ## 使用技術
 - HTML
