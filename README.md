@@ -1,4 +1,4 @@
-# 🌱 VanillaJS TODO アプリ
+# VanillaJS TODO アプリ
 
 ## 目的
 1. JavaScript のアウトプット
