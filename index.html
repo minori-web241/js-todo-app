@@ -2,11 +2,26 @@
 <html lang="en">
   <head>
     <meta charset="UTF-8" />
-    <link rel="icon" type="image/svg+xml" href="/vite.svg" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Vite App</title>
+    <title>TODO - JS</title>
   </head>
   <body>
+    <div class="container">
+      <div class="input-area">
+        <input id="add-text" type="text" placeholder="TODOを入力">
+        <button id="add-button">追加</button>
+      </div>
+      <div class="box unfinished">
+        <h2>🌱 今年やりたいことリスト</h2>
+        <ul id="unfinished-list">
+        </ul>
+      </div>
+      <div class="box complete">
+        <h2>✅ 達成したこと</h2>
+        <ul id="complete-list">
+        </ul>
+      </div>
+    </div>
     <script type="module" src="/src/main.js"></script>
   </body>
 </html>
